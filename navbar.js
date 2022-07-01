@@ -7,14 +7,14 @@ let navhowtoplay = getData('navhowtoplay');
 let navsocial = getData('navsocial');
 let navdevelopers = getData('navdevelopers');
 navhome.onclick = function() {
-    window.location.replace('/');
+    window.location.replace('/ultraballista/');
 }
 navhowtoplay.onclick = function() {
-    window.location.replace('/howtoplay/index.html');
+    window.location.replace('/ultraballista/howtoplay/index.html');
 }
 navsocial.onclick = function() {
-    window.location.replace('/social/index.html');
+    window.location.replace('/ultraballista/social/index.html');
 }
 navdevelopers.onclick = function() {
-    window.location.replace('/developers/index.html');
+    window.location.replace('/ultraballista/developers/index.html');
 }
