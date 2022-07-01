@@ -7,7 +7,7 @@ let navhowtoplay = getData('navhowtoplay');
 let navsocial = getData('navsocial');
 let navdevelopers = getData('navdevelopers');
 navhome.onclick = function() {
-    window.location.replace('/ultraballista/index.html');
+    window.location.replace('/ultraballista/');
 }
 navhowtoplay.onclick = function() {
     window.location.replace('/ultraballista/howtoplay/index.html');
