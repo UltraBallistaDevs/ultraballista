@@ -6,7 +6,7 @@
 * {
     box-sizing: border-box;
 }
-bottom {
+.bottom {
     position: absolute;
     color: #ddd;
     left: 10px;
